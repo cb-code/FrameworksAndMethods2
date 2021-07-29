@@ -140,6 +140,6 @@ freq_terms(text.var = bb_revs$review, top = 10, stopwords = tm::stopwords(kind =
 ### plot(freq_terms(text.var=bb_revs$review, top = 10, stopwords = tm::stopwords(kind="en"))); ###
 
 ### ----------------------------------------------------------------------------------------------- ###
-### ASSN. 2.1 ###
+### ASSN. 1 ###
 ### EOF ###
 ### ----------------------------------------------------------------------------------------------- ###
